@@ -7,7 +7,7 @@ function Download-File
 
   PowerSploit Function: Download-File
   Author: monsherko
-  License: GPL
+  License: GPL v2.0
   Required Dependencies: None
   Optional Dependencies: None
 
